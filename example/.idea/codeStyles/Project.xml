@@ -1,0 +1,51 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#10;" />
+    <option name="RIGHT_MARGIN" value="80" />
+    <DB2CodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </HSQLCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </SQLiteCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="USE_SCALADOC2_FORMATTING" value="true" />
+    </ScalaCodeStyleSettings>
+    <SqlCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="2">
+      <option name="KEYWORD_CASE" value="0" />
+    </SybaseCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="RIGHT_MARGIN" value="80" />
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
